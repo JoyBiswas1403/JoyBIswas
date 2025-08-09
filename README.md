@@ -46,12 +46,10 @@ Always curious, always learning, and always building. 🚀
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Project
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | *Resume Analyzer with BERT* | AI-powered tool to analyze resumes & match job requirements | Python, BERT, Flask |
-| *Sales Forecasting Dashboard* | Interactive dashboard for sales analysis & forecasting | Python, Plotly, Dash |
-| *Movie Recommendation System* | Suggests movies based on user preferences | Python, Scikit-learn |
 
 ---
 
@@ -64,6 +62,14 @@ Always curious, always learning, and always building. 🚀
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joybiswas&theme=radical&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joybiswas&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joybiswas&color=blue&style=flat-square&label=Visitors" />
 </p>
 
 ---
