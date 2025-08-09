@@ -1,6 +1,6 @@
-<!-- Profile Banner -->
+<!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:1fddff&height=200&section=header&text=Joy%20Biswas&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://github.com/JoyBiswas1403/JoyBIswas/blob/main/assests/Joy%20Biswas.gif?raw=true" alt="Joy Biswas Banner" height="200" />
 </p>
 
 # 👋 Hi, I'm Joy Biswas
