@@ -1,6 +1,6 @@
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://github.com/JoyBiswas1403/JoyBIswas/blob/main/assests/Joy%20Biswas.gif?raw=true" alt="Joy Biswas Banner" width="100%" />
+  <img src="[https://github.com/JoyBiswas1403/JoyBIswas/blob/main/assests/Joy%20Biswas.gif?raw=true" alt="Joy Biswas Banner" width="100%"](https://github.com/JoyBiswas1403/JoyBIswas/blob/main/assests/Joy%20Biswas%20(4).gif?raw=true) />
 </p>
 
 # 👋 Hi, I'm Joy Biswas
